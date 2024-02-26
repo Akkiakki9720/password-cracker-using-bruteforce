@@ -1,1 +1,1 @@
-#This is repo is of applying bruteforce technique to crack password for the zipfiles.
+#This repo is for applying bruteforce technique to crack password for the zipfiles.
